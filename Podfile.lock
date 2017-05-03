@@ -1,0 +1,12 @@
+PODS:
+  - Apollo (0.5.6)
+
+DEPENDENCIES:
+  - Apollo
+
+SPEC CHECKSUMS:
+  Apollo: 124ddbbca48acca75fd5f9ec5045454cb410bb31
+
+PODFILE CHECKSUM: cd9ed9570a78eae2e0347619d9fce49b0e69a84c
+
+COCOAPODS: 1.2.0
